@@ -15,3 +15,9 @@ as Client.
     background color will change automatically.
 -->Both can share simple text file between them by clicking on Share option from 
    menu .
+
+Contributions :
+2016331019: ChatBox application 
+2016331029 : ChatServer application 
+
+Layout design : Both teammates
