@@ -1,5 +1,7 @@
 ****** P2P Socket Programming *******
 
+A peer to peer messaging app based on P2P network where users can send messages directly between two people via the computer, phone, or other device while keeping it very simple and secure way to send messages, files, and any other private information.
+
 This P2P Socket Programming Contains two Application,one works as Server and the othe works
 as Client.
 
